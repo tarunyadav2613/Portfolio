@@ -17,9 +17,9 @@ const achievements = [
     icon: <FaCloud className="text-2xl text-brand" />,
   },
   {
-    title: "LeetCode Top 11% – 600+ Problems Solved",
+    title: "LeetCode Top 8.68% – 600+ Problems Solved",
     description:
-      "Achieved a global top 11% ranking by solving over 600 data structures and algorithms problems.",
+      "Achieved a global top 8.68% ranking by solving over 600 data structures and algorithms problems.",
     year: "2024",
     icon: <FaCode className="text-2xl text-brand" />,
   },
